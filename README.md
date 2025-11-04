@@ -19,7 +19,7 @@ A lightweight shell logging tool for tracking and managing command history with 
 To install **shlog**, simply clone the repository and follow the instructions below:
 
 ```bash
-git clone git@github.com:trinhminhtriet/shlog.git
+git clone git@github.com:davidakpele/shlog.git
 cd shlog
 
 cargo build --release
@@ -50,7 +50,7 @@ shlog [FLAGS] [OPTIONS]
 shlog --help
 
 shlog 0.1.1
-Triet Trinh <contact@trinhminhtriet.com>
+Triet Trinh <contact@davidakpele.com>
 A CLI tool for inspecting shell history
 
 USAGE:
